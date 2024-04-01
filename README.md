@@ -1,3 +1,3 @@
-# hello_world_app
+# flutter_hello_world
 
-Proyecto hello world 
+Proyect hello world in flutter
